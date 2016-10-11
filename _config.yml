@@ -2,8 +2,7 @@
 title: AMPS
 email: usaid.amps@gmail.com
 url: https://usaid-amps.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-
+description: "Analytic Monitor for Power Systems, A USAID project for developing a real-time energy monitoring project"
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary-dark: '#000000'
